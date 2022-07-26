@@ -26,8 +26,29 @@ Calul are rolul de a activiza jocul.
 In pozitii inchise calul poate fi cea mai utila piesa de pe tabla deoarece are posibilitatea sa sara peste alte piese.
 Avand o raza mica de actiune, de obicei, calul nu functioneaza bine la marginea sau la coltul tablei.
 Acesta este foarte eficient in centrul tablei unde are multe posibilitati.</string>
-    <string name="nebun">Each day is a new opportunity to grow and be a better version of myself.</string>
-    <string name="turn">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="nebun">Nebunul se poate deplasa pe diagonale, inainte si inapoi daca nu ii sta nimic in cale.
+Nebunul se poate deplasa pana la oricare dintre campurile marcate de sageti.
+
+poza "nebunii"
+
+La inceputul jocului cei doi jucatori au la dispozitie doi nebuni.
+Unul dintre acestia se deplaseaza doar pe campurile albe, iar celalalt numai pe campurile negre.
+Un nebun care porneste de pe un patrat alb nu se poate deplasa si pe campurile negre.
+La fel, nebunul care porneste de pe negru nu se poate deplasa pe campurile albe.
+O pereche de nebuni poate fi extrem de puternica si utila intr-o pozitie deschisa.
+Aceistia sunt cel mai bine plasati pe margini, departe de piesele inamice, dar sunt capabili sa isi faca simtita prezenta si in centru si de cealalta parte a tablei.
+
+</string>
+    <string name="turn">Turnurile sunt piese puternice, dar la inceputul jocului nu se deplaseaza deoarece acestea sunt blocate de alte piese.
+Ele se desfasoara dupa deschiderea jocului.
+Turnurile se pot deplasa in sus, in jos, la dreapta si la stanga, daca au cale libera.
+Acestea nu pot sari peste alte piese, exceptand momentul cand se executa mutarea speciala "rocada".
+
+poza "turnuri"
+
+Spre deosebire de rege, turnul poate ajunge dintr-un loc in altul intr-un timp mai scurt daca traseul sau este liber.
+
+</string>
     <string name="rege">Regele este cea mai inalta piesa de pe tabla si este cea mai importanta piesa.
 Acest joc se bazeza pe faptul de a prinde regele intr-o pozitie de sah-mat.
 Daca regele se pierde intr-o partida inseamna ca partida s-a incheiat si a castigat cel care l-a capturat.
@@ -42,5 +63,17 @@ poza "regele"
 Mai exista o mutare speciala, un salt, pe care regele il poate face o singura data intr-o partide, rocada mica sau mare.
 
 poza "rocada"</string>
-    <string name="regina">Good things are always coming in my life.</string>
+    <string name="regina">Regina este usor de recunoscut, are o coroana pe partea superioara si se afla la inceput langa rege.
+Regina se poate deplasa pe orizontala si pe vertiala ca turnul,precum si pe diagonala ca nebunul atat timp cat nimic nu ii blocheaza deplasarea.
+Atunci cand se afla in centrul tablei, regina exercita o putere extraordinara.
+
+poza "regina 1"
+
+Nu trebuie neaparat ca regina sa fie in centrul tablei de joc pentru a avea un efect decisiv aspura partidei.
+Chiar si in colt, aceasta are o putere impresionanta.
+
+poza "regina 2"
+
+Desi regele este cea mai imortanta piesa din armata noastra, regina este cea mai puternica.
+Trebuie sa avem grija de aceasta piesa deoarece daca se pierde regina, jocul devine dificil de castigat.</string>
 </resources>
