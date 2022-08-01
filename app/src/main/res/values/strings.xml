@@ -6,12 +6,10 @@ La prima mutare pionii se pot deplasa un patratel sau doua.
 Dupa aceasta miscare, aceistia se pot deplasa doar un camp la fiecare mutare.
 Ei nu se pot deplasa inapoi sau in lateral.
 
-poza"pionii 1"
 
 Pionii reprezinta un scut petru celelalte piese.
 Spre deosebire de toate celelalte piese, pionii pot captura miscandu-se inainte in diagonala cu un patrat.
 
-poza "pioni2"
 
 Pionii cand ajung pe cealalta parte a tablei se transforma intr-o alta piesa la alegere intre dama, turn, cal sau nebun.
 
@@ -20,7 +18,6 @@ poza "pionii 3"</string>
 Calul se deplaseaza doua campuri in linie dreapta si apoi unul in lateral in dreapta sau in stanga.
 Aceasta piesa se deplaseaza mereu in forma de L.
 
-poza"calul"
 
 Calul are rolul de a activiza jocul.
 In pozitii inchise calul poate fi cea mai utila piesa de pe tabla deoarece are posibilitatea sa sara peste alte piese.
@@ -29,7 +26,6 @@ Acesta este foarte eficient in centrul tablei unde are multe posibilitati.</stri
     <string name="nebun">Nebunul se poate deplasa pe diagonale, inainte si inapoi daca nu ii sta nimic in cale.
 Nebunul se poate deplasa pana la oricare dintre campurile marcate de sageti.
 
-poza "nebunii"
 
 La inceputul jocului cei doi jucatori au la dispozitie doi nebuni.
 Unul dintre acestia se deplaseaza doar pe campurile albe, iar celalalt numai pe campurile negre.
@@ -44,7 +40,6 @@ Ele se desfasoara dupa deschiderea jocului.
 Turnurile se pot deplasa in sus, in jos, la dreapta si la stanga, daca au cale libera.
 Acestea nu pot sari peste alte piese, exceptand momentul cand se executa mutarea speciala "rocada".
 
-poza "turnuri"
 
 Spre deosebire de rege, turnul poate ajunge dintr-un loc in altul intr-un timp mai scurt daca traseul sau este liber.
 
@@ -58,7 +53,6 @@ Regele este piesa cea mai importanta , dar de fapt, are foarte putina putere.
 El are voie sa se deplaseze doar un camp, chiar daca e liber sa se deplaseze in orice directie.
 Poate sa captureze alte piese, dar nu se poate deplasa intr-un patrat in care sa intre in sah.
 
-poza "regele"
 
 Mai exista o mutare speciala, un salt, pe care regele il poate face o singura data intr-o partide, rocada mica sau mare.
 
@@ -67,12 +61,10 @@ poza "rocada"</string>
 Regina se poate deplasa pe orizontala si pe vertiala ca turnul,precum si pe diagonala ca nebunul atat timp cat nimic nu ii blocheaza deplasarea.
 Atunci cand se afla in centrul tablei, regina exercita o putere extraordinara.
 
-poza "regina 1"
 
 Nu trebuie neaparat ca regina sa fie in centrul tablei de joc pentru a avea un efect decisiv aspura partidei.
 Chiar si in colt, aceasta are o putere impresionanta.
 
-poza "regina 2"
 
 Desi regele este cea mai imortanta piesa din armata noastra, regina este cea mai puternica.
 Trebuie sa avem grija de aceasta piesa deoarece daca se pierde regina, jocul devine dificil de castigat.</string>
