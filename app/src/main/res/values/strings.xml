@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Chess_App_Clone</string>
+
     <string name="pion">In fata celorlaltor piese se afla opt pioni.
 Aceistia sunt considerati cei mai putini valorosi membrii ai armatei dar rolul lor in cursul partidei nu trebuie deloc neglijat.
 La prima mutare pionii se pot deplasa un patratel sau doua.
@@ -14,6 +15,7 @@ Spre deosebire de toate celelalte piese, pionii pot captura miscandu-se inainte 
 Pionii cand ajung pe cealalta parte a tablei se transforma intr-o alta piesa la alegere intre dama, turn, cal sau nebun.
 
 poza "pionii 3"</string>
+
     <string name="cal">Calul are capacitatea de a sari peste alte piese.
 Calul se deplaseaza doua campuri in linie dreapta si apoi unul in lateral in dreapta sau in stanga.
 Aceasta piesa se deplaseaza mereu in forma de L.
@@ -23,6 +25,7 @@ Calul are rolul de a activiza jocul.
 In pozitii inchise calul poate fi cea mai utila piesa de pe tabla deoarece are posibilitatea sa sara peste alte piese.
 Avand o raza mica de actiune, de obicei, calul nu functioneaza bine la marginea sau la coltul tablei.
 Acesta este foarte eficient in centrul tablei unde are multe posibilitati.</string>
+
     <string name="nebun">Nebunul se poate deplasa pe diagonale, inainte si inapoi daca nu ii sta nimic in cale.
 Nebunul se poate deplasa pana la oricare dintre campurile marcate de sageti.
 
@@ -35,6 +38,7 @@ O pereche de nebuni poate fi extrem de puternica si utila intr-o pozitie deschis
 Aceistia sunt cel mai bine plasati pe margini, departe de piesele inamice, dar sunt capabili sa isi faca simtita prezenta si in centru si de cealalta parte a tablei.
 
 </string>
+
     <string name="turn">Turnurile sunt piese puternice, dar la inceputul jocului nu se deplaseaza deoarece acestea sunt blocate de alte piese.
 Ele se desfasoara dupa deschiderea jocului.
 Turnurile se pot deplasa in sus, in jos, la dreapta si la stanga, daca au cale libera.
@@ -44,6 +48,7 @@ Acestea nu pot sari peste alte piese, exceptand momentul cand se executa mutarea
 Spre deosebire de rege, turnul poate ajunge dintr-un loc in altul intr-un timp mai scurt daca traseul sau este liber.
 
 </string>
+
     <string name="rege">Regele este cea mai inalta piesa de pe tabla si este cea mai importanta piesa.
 Acest joc se bazeza pe faptul de a prinde regele intr-o pozitie de sah-mat.
 Daca regele se pierde intr-o partida inseamna ca partida s-a incheiat si a castigat cel care l-a capturat.
@@ -57,6 +62,7 @@ Poate sa captureze alte piese, dar nu se poate deplasa intr-un patrat in care sa
 Mai exista o mutare speciala, un salt, pe care regele il poate face o singura data intr-o partide, rocada mica sau mare.
 
 poza "rocada"</string>
+
     <string name="regina">Regina este usor de recunoscut, are o coroana pe partea superioara si se afla la inceput langa rege.
 Regina se poate deplasa pe orizontala si pe vertiala ca turnul,precum si pe diagonala ca nebunul atat timp cat nimic nu ii blocheaza deplasarea.
 Atunci cand se afla in centrul tablei, regina exercita o putere extraordinara.
