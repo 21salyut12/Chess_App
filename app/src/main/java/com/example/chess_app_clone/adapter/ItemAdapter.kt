@@ -9,6 +9,8 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.chess_app_clone.R
 import com.example.chess_app_clone.model.GeneralInfo
+import pl.droidsonroids.gif.GifDrawable
+import pl.droidsonroids.gif.GifImageView
 
 
 class ItemAdapter(private val context: Context, private val dataset: List<GeneralInfo>) : RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
@@ -16,6 +18,9 @@ class ItemAdapter(private val context: Context, private val dataset: List<Genera
         class ItemViewHolder(private val view: View) : RecyclerView.ViewHolder(view) {
             val textView: TextView = view.findViewById(R.id.item_title)
             val imageView: ImageView = view.findViewById(R.id.item_image)
+            val gifImageView: GifImageView= view.findViewById(R.id.gif)
+
+
         }
 
         override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
@@ -27,6 +32,8 @@ class ItemAdapter(private val context: Context, private val dataset: List<Genera
             val item = dataset[position]
             holder.textView.text = context.resources.getString(item.stringResourceId)
             holder.imageView.setImageResource(item.imageResourceId)
+            val gifFromResource = GifDrawable(context.getResources(),item.gifImageView)
+            holder.gifImageView.setImageResource(item.gifImageView)
         }
 
         override fun getItemCount() = dataset.size
