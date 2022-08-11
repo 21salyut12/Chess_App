@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">Chess_App</string>
 
-    <string name="pion">In fata celorlaltor piese se afla opt pioni.
-Aceistia sunt considerati cei mai putini valorosi membrii ai armatei dar rolul lor in cursul partidei nu trebuie deloc neglijat.
+    <string name="pion">In fata celorlalte piese se afla opt pioni.
+Acestia sunt considerati cei mai putini valorosi membrii ai armatei dar rolul lor in cursul partidei nu trebuie deloc neglijat.
 La prima mutare pionii se pot deplasa un patratel sau doua.
-Dupa aceasta miscare, aceistia se pot deplasa doar un camp la fiecare mutare.
+Dupa aceasta miscare, acestia se pot deplasa doar un camp la fiecare mutare.
 Ei nu se pot deplasa inapoi sau in lateral.
 
 
@@ -13,8 +13,7 @@ Spre deosebire de toate celelalte piese, pionii pot captura miscandu-se inainte 
 
 
 Pionii cand ajung pe cealalta parte a tablei se transforma intr-o alta piesa la alegere intre dama, turn, cal sau nebun.
-
-poza "pionii 3"</string>
+    </string>
 
     <string name="cal">Calul are capacitatea de a sari peste alte piese.
 Calul se deplaseaza doua campuri in linie dreapta si apoi unul in lateral in dreapta sau in stanga.
@@ -35,7 +34,7 @@ Unul dintre acestia se deplaseaza doar pe campurile albe, iar celalalt numai pe 
 Un nebun care porneste de pe un patrat alb nu se poate deplasa si pe campurile negre.
 La fel, nebunul care porneste de pe negru nu se poate deplasa pe campurile albe.
 O pereche de nebuni poate fi extrem de puternica si utila intr-o pozitie deschisa.
-Aceistia sunt cel mai bine plasati pe margini, departe de piesele inamice, dar sunt capabili sa isi faca simtita prezenta si in centru si de cealalta parte a tablei.
+Acestia sunt cel mai bine plasati pe margini, departe de piesele inamice, dar sunt capabili sa isi faca simtita prezenta si in centru si de cealalta parte a tablei.
 
 </string>
 
